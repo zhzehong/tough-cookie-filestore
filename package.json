@@ -1,13 +1,13 @@
 {
-  "name": "tough-cookie-filestore",
-  "version": "0.0.2",
-  "description": "file store for tough-cookie",
+  "name": "tough-cookie-kit",
+  "version": "0.0.3",
+  "description": "toolkit for tough-cookie",
   "main": "index.js",
-  "author": "mitsuru",
+  "author": "zhzehong",
   "license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mitsuru/tough-cookie-filestore.git"
+		"url": "https://github.com/zhzehong/tough-cookie-filestore.git"
 	},
   "dependencies": {
     "tough-cookie": "~0.12.1"
