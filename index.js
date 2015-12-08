@@ -1,2 +1,2 @@
-var FileCookieStore = require('./lib/filestore').FileCookieStore;
-module.exports = FileCookieStore;
+var StoreKit = require('./lib/storekit').StoreKit;
+module.exports = StoreKit;
