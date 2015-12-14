@@ -1,6 +1,6 @@
 {
   "name": "tough-cookie-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a store kit for tough-cookie",
   "main": "index.js",
   "author": "zhzehong",
